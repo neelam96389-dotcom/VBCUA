@@ -57,6 +57,7 @@ Streamlit Session State (in-memory)
 ---
 
 ## 🚀 Installation & Run Instructions
+## running all given instruction
 
 ### 1. Clone the Repository
 ```
