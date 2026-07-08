@@ -61,7 +61,7 @@ Streamlit Session State (in-memory)
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/Palak-web021/VBCUA.git
+git clone https://github.com/neelam96389-dotcom/VBCUA.git
 cd "VBCUA/5. Project Development Phase/Source_Code"
 ```
 
